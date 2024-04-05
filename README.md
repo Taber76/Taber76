@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently working on personal projects.<br>💼 Seeking job opportunities as a programmer.<br>🚀 Focused on learning backend development and soon diving into machine learning.<br>🔭 Always excited to learn new technologies and explore emerging areas of development.<br>Portfolio: https://portfolio-taber76.vercel.app <br>
+🌱 Currently working on personal projects.<br>💼 Seeking job opportunities as a programmer.<br>🚀 Focused on learning backend development and soon diving into machine learning.<br>🔭 Always excited to learn new technologies and explore emerging areas of development.<br>Portfolio: [https://portfolio-taber76.vercel.app](https://portfolio-tabare-bermudezs-projects.vercel.app/) <br>
 
 
 ## 🌐 Socials:
