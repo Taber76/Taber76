@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tab.ber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tabarebermudez) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,nestjs,express,graphql,electron,postgres,mongodb,mysql,firebase,sqlite,prisma,sequelize,py,flask,raspberrypi,aws,vercel,gcp,html,css,bootstrap,react,redux,vite,git,github,postman,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,nestjs,express,graphql,electron,postgres,mongodb,mysql,firebase,sqlite,prisma,sequelize,py,flask,raspberrypi,aws,docker,nextjs,vercel,gcp,html,css,bootstrap,react,redux,vite,git,github,postman,vscode&perline=8)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Taber76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Taber76&theme=dark&hide_border=false)<br/>
